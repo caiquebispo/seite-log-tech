@@ -549,12 +549,12 @@ nav ul li a:hover::after {
         gap: 40px;
         text-align: center;
     }
-    
+
     .missao-visao {
         grid-template-columns: 1fr;
         gap: 30px;
     }
-    
+
     .diferenciais-grid {
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
         gap: 25px;
@@ -565,62 +565,62 @@ nav ul li a:hover::after {
     .sobre {
         padding: 80px 0;
     }
-    
+
     .sobre-intro {
         padding: 30px 20px;
         margin-bottom: 60px;
     }
-    
+
     .intro-content h3 {
         font-size: 1.6rem;
     }
-    
+
     .sobre-img img {
         height: 250px;
     }
-    
+
     .missao-visao-container {
         margin-bottom: 60px;
     }
-    
+
     .missao,
     .visao {
         padding: 30px 20px;
     }
-    
+
     .card-icon {
         width: 60px;
         height: 60px;
     }
-    
+
     .card-icon i {
         font-size: 1.5rem;
     }
-    
+
     .diferenciais-section {
         padding: 40px 20px;
     }
-    
+
     .diferenciais-header h3 {
         font-size: 1.8rem;
         flex-direction: column;
         gap: 10px;
     }
-    
+
     .diferenciais-grid {
         grid-template-columns: 1fr;
         gap: 20px;
     }
-    
+
     .diferencial-item {
         padding: 25px 20px;
     }
-    
+
     .diferencial-icon {
         width: 60px;
         height: 60px;
     }
-    
+
     .diferencial-icon i {
         font-size: 1.5rem;
     }
@@ -630,52 +630,53 @@ nav ul li a:hover::after {
     .sobre {
         padding: 60px 0;
     }
-    
+
     .sobre-intro {
         padding: 20px 15px;
         margin-bottom: 40px;
     }
-    
+
     .intro-content h3 {
         font-size: 1.4rem;
     }
-    
+
     .intro-content p {
         font-size: 1rem;
     }
-    
+
     .sobre-img img {
         height: 200px;
     }
-    
+
     .img-overlay {
         bottom: 15px;
         left: 15px;
         padding: 10px 15px;
     }
-    
+
     .img-overlay h4 {
         font-size: 1.4rem;
     }
-    
+
     .missao-visao-container {
         margin-bottom: 40px;
     }
-    
+
     .missao,
     .visao {
         padding: 25px 15px;
     }
-    
+
     .diferenciais-section {
         padding: 30px 15px;
     }
-    
+
     .diferenciais-header h3 {
         font-size: 1.5rem;
     }
 }
-    font-weight: 700;
+
+font-weight: 700;
 }
 
 .img-overlay p {
@@ -727,16 +728,16 @@ nav ul li a:hover::after {
     box-shadow: var(--shadow-hover);
 }
 
-    .img-overlay {
-        position: relative;
-        bottom: auto;
-        left: auto;
-        margin-top: 20px;
-    }
+.img-overlay {
+    position: relative;
+    bottom: auto;
+    left: auto;
+    margin-top: 20px;
+}
 
-    .sobre-img {
-        margin-bottom: 20px;
-    }
+.sobre-img {
+    margin-bottom: 20px;
+}
 }
 
 .valores {
@@ -808,7 +809,7 @@ nav ul li a:hover::after {
 
 .servicos-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 30px;
 }
 
